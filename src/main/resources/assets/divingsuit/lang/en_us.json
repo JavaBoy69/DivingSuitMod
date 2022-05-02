@@ -1,7 +1,9 @@
 {
-  "item.divingsuitmod.neopren": "Neopren",
-  "item.divingsuitmod.diving_helmet": "Diving Helmet",
-  "item.divingsuitmod.diving_jacket": "Diving Jacket",
-  "item.divingsuitmod.diving_leggins": "Diving Leggins",
-  "item.divingsuitmod.diving_flosses": "Diving Flosses"
+  "item.divingsuit.neopren": "Neopren",
+  "item.divingsuit.diving_helmet": "Diving Mask",
+  "item.divingsuit.diving_jacket": "Diving Jacket",
+  "item.divingsuit.diving_leggins": "Diving Leggins",
+  "item.divingsuit.diving_fins": "Diving Fins",
+
+  "itemGroup.divingsuitmodTab": "Diving Suit"
 }
