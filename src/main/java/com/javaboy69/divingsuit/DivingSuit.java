@@ -16,7 +16,7 @@ public class DivingSuit
 
 {
 
-    public static final String MOD_ID = "divingsuitmod";
+    public static final String MOD_ID = "divingsuit";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 

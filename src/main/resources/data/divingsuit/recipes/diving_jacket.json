@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "divingsuit:neopren"
+    },
+    "0": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "divingsuit:diving_jacket"
+  }
+}
